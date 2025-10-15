@@ -4,3 +4,4 @@ team leader :20221048
 Project03 version1 completed
 2nd Team Member:문서영
 2nd Team Member:20241054
+Project03 version2 completed
